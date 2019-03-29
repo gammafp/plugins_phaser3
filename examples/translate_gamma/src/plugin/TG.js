@@ -5,7 +5,7 @@ class TG extends Phaser.Plugins.BasePlugin {
     }
 
     init(config) {
-        console.log('Plugin Translate Gamma cargado');
+        console.log('%c Plugin Translate Gamma cargado ', 'color: white; font-size:15px; background-color: #e14141');
         const those = this;
         this.pluginManager.registerFileType('lang', function () {
             those.upload(this, config);
