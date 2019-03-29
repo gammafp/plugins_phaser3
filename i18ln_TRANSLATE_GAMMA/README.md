@@ -2,6 +2,10 @@
 
 Es un plugin útil para la traducción de juegos con Phaser 3, el plugin es capaz de guardar y recuperar automáticamente el idioma ya que hace uso de localStorage.
 
+### [DEMO](https://gammafp.github.io/plugins_phaser3/examples/translate_gamma/)
+
+![MAGE](https://raw.githubusercontent.com/gammafp/plugins_phaser3/master/i18ln_TRANSLATE_GAMMA/plugin_i18ln.gif)
+
 ### Archivo JSON
 El archivo de configuración lo guardamos dentro de src y creamos una carpeta llamada i18ln, la estructura de ejemplo es la siguiente: 
 
